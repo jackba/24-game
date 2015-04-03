@@ -1,0 +1,4 @@
+This is a Android about the math 24 game, which contains powerful customer calculator and two game, one single, one multi. And the author of the app is Yin, you may contant him by yinguowei@gmail.com or just visit his web homepage: http://yinguowei.javaeye.com .
+> \n Developer: Yin \n Tester: Anna \n And still it's a BETA version, so it might contain some bug, and the author will be great thankful if you just send the feedback by mail, we will try the best to answer the question or fix the bugs as soon as possible. Thank you all. -Yin 2009-02-11.
+> The game project contains over 40 class, 200k code, over 5000 lines. The 24 core project (which just calculator the answers, no of the android business) was started from year 2005, and the 24-Pro game project is created at 2008-10 just before the first htc g1 released, that takes 4 month
+> and release the first 1.0beta version at 2009-02 as last.
